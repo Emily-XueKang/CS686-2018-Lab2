@@ -5,3 +5,5 @@
 ### The code of svm_basic can also be found in svm_basic.py  
 
 ### The code of plot the fitting results can also be found in plot.py
+
+### To run and see the result, use "python3 plot.py"
